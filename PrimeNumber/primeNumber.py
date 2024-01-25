@@ -11,5 +11,3 @@ if(flag):
 else:
     print(num, " is a prime number")
 print("End is entet hier")
-
-
